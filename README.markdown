@@ -6,7 +6,7 @@ See the [wiki](http://wiki.github.com/handcrafted/handcrafted-compass-mixins) fo
 
 ##Introduction
 
-Handcrafted is all about OS code sharing. [Compass](http://compass-style.org/) rocks and we tend to write mixins that suite our needs and help us enjoy life just a bit more than we otherwise would.
+Handcrafted is all about OS code sharing. [Compass](http://compass-style.org/) rocks and we tend to write mixins that suit our needs and help us enjoy life just a bit more than we otherwise would.
 
 * Rounded Corners - A Compass mixin to apply CSS3 based rounded corners
 
