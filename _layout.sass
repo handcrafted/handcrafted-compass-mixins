@@ -1,0 +1,22 @@
+// Commonly used layout rules
+
+// Centers an element inside of it's immediate parent and sets the optional width
+// Sample Usage:
+// #container
+//   +centered("960px")
+=centered(!width = false)
+  margin-left: auto !important
+  margin-right: auto !important
+  display: block
+  @if !width
+    width = !width
+
+// Floats an element using the specified direction and sets the optional width
+// Sample Usage:
+// #container
+//   +float("left")
+=float(!direction, !width = false)
+  display: inline
+  float = !direction
+  @if !width
+    width = !width
