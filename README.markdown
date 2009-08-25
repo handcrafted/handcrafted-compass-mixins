@@ -8,7 +8,9 @@ See the [wiki](http://wiki.github.com/handcrafted/handcrafted-compass-mixins) fo
 
 Handcrafted is all about OS code sharing. [Compass](http://compass-style.org/) rocks and we tend to write mixins that suit our needs and help us enjoy life just a bit more than we otherwise would.
 
-* Rounded Corners - A Compass mixin to apply CSS3 based rounded corners
+* Border Radius - A Compass mixin to apply CSS3 based rounded corners using CSS3's Border Module
+* Layout - A base set of common layout rules
+* Links - A base setup for link styling
 
 If you have questions, email us at [hello@gethandcrafted.com](mailto:hello@gethandcrafted.com) or call 1-800-513-7421 if you feel like chatting.
 
